@@ -263,7 +263,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":" \t{<lobby>\/maps\/erfas-south.json#start_dev-base}"
+                         "value":"{<lobby>\/maps\/erfas-south.json#start_dev-base}"
                         }]
                 }, 
                 {
