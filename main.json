@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/islanooblar.json"
+                 "value":"world://lobby/islanooblar.json#start_tabvillage"
                 }],
          "type":"tilelayer",
          "visible":true,
