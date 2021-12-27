@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{world:\/\/lobby\/islanooblar.json#start_tabvillage}"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_tabvillage"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -117,12 +117,6 @@
          "id":12,
          "name":"ontopofwall",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"CC0 1.0 Universal"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -149,7 +143,7 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":0,
+                 "id":83,
                  "properties":[
                         {
                          "name":"tilesetCopyright",
