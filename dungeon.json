@@ -52,7 +52,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json"
                 }],
