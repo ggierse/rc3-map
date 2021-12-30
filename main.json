@@ -163,7 +163,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"x-special\/nautilus-clipboard\ncopy\nfile:\/\/\/home\/gesche\/rc3\/tabvillage_map\/party_computer_loop_2.mp3\n"
+                 "value":"party_computer_loop_2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
